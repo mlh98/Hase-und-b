@@ -5,4 +5,4 @@ Measurements and segmentations as nifti-files, Python scripts for data processin
 
 To run the code, please extract the zip files "Results IVIM Parameters.zip" and "Data and Segmentation.zip". Ensure that the extracted folders are placed at the top level of the main directory, e.g., folder "Data and Segmentation" is on the same level as the .py Scripts "Figure 2.py", "Figure 3.py", etc.
 
-For more details, please refer to the manuscript.
+For more details on the methods, please refer to the manuscript.
