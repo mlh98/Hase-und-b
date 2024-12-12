@@ -333,10 +333,10 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(script_dir)
 
 # Construct the path to measurement folder
-meas_dir = os.path.join(parent_dir, 'Messungen und Segmentierung')
+meas_dir = os.path.join(parent_dir, 'Data and Segmentation')
 
 # Construct the path to the 'Ergebnisse' folder
-results_dir = os.path.join(parent_dir, 'Ergebnisse')
+results_dir = os.path.join(parent_dir, 'Results IVIM Parameters')
 
 # Nifti and segmentation
 path_nifti = os.path.join(meas_dir, '01', 'data')
